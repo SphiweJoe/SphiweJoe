@@ -1,4 +1,4 @@
-# 👨‍💻 Sphiwe Joe Masilela - IT Specialist
+# 👨‍💻 Sphiwe Joe Masilela - IT Software Developer (JAVA)
 
 ![Profile Banner](https://via.placeholder.com/1000x200.png?text=Sphiwe+Joe+Masilela)  
 

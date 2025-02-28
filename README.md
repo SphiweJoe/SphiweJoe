@@ -17,7 +17,7 @@
 ![Tools](https://img.shields.io/badge/Tools-IBM%20QRadar%2C%20PowerShell%2C%20SQL%20Server-blue)
 ![Methodologies](https://img.shields.io/badge/Methodologies-Agile%2C%20Design%20Thinking-yellow)
 
-- **Programming Languages**: C#, C++, Python, SQL
+- **Programming Languages**: C#, C++, Python, SQL, Java, Java Script
 - **Security Tools**: IBM QRadar, Watson for Threat Analysis, SIEM, IAM Systems
 - **Database Management**: SQL Server, SQL Database Knowledge
 - **Troubleshooting & Debugging**: Linux and Windows Server, Network and System Support

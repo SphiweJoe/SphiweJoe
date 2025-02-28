@@ -6,6 +6,7 @@
 
 📍 **Location**: Johannesburg, Gauteng, South Africa  
 📧 **Email**: [masilsj@outlook.com](mailto:masilsj@outlook.com)  
+📧 **Email**: [masilelasphiwejoe@gmail.com](masilelasphiwejoe@gmail.com)  
 🌐 **LinkedIn**: [Sphiwe Joe Masilela](https://www.linkedin.com/in/sphiwe-masilela1214/)  
 
 ---
